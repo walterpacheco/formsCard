@@ -1,0 +1,27 @@
+.subtitle{
+margin-top: 2%;
+}
+.align{
+  margin: 2%;
+}
+.fabW{
+
+ padding:1%;
+ margin-left: 3px;   
+}
+.rowgray{
+background-color: lightgrey;
+border-radius: 8px;
+width: 80%;
+margin-top: 2%;
+padding: 1%;
+}
+.aligncommenttitle{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.lasttext{
+    margin-left: 2%;
+    font-size: 12px;
+    color: gray;
+}
